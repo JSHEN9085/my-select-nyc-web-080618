@@ -5,5 +5,4 @@ def my_select(collection)
  while i < collection.length 
   collection.select do |x|
     x.even?
-    new_collect = []
 end
